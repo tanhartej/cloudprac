@@ -56,7 +56,8 @@
 							"sourcecontainer": {
 								"value": "@pipeline().parameters.inputvalue",
 								"type": "Expression"
-							}
+							},
+							"sourcefilename": "*.json"
 						}
 					}
 				],
@@ -68,7 +69,8 @@
 							"sinkcontainer": {
 								"value": "@pipeline().parameters.outputvalue",
 								"type": "Expression"
-							}
+							},
+							"sinkfilename": "*.json"
 						}
 					}
 				]
