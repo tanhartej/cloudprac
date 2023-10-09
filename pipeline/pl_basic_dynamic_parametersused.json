@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "pl_basic_dynamic_parametersused",
 	"properties": {
 		"activities": [
 			{
