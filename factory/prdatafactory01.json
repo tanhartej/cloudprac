@@ -1,0 +1,9 @@
+{
+	"name": "prdatafactory01",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "545be35b-1417-4f74-9e80-772284490e74",
+		"tenantId": "64d230d6-c8d8-425b-8e69-f7c5abb6d792"
+	}
+}
